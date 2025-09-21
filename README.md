@@ -35,7 +35,7 @@ It showcases my education, skills, projects, internships, and contact details in
 
 ## 🌐 Live Demo
 If hosted via GitHub Pages, you can view the resume here:  
-👉 [https://your-username.github.io/my-resume](https://your-username.github.io/my-resume)
+👉 [https://Marzook30.github.io/Resume-creating-only-in-Html](https://Marzook30.github.io/Resume-creating-only-in-Html)
 
 ---
 
