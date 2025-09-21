@@ -6,7 +6,7 @@ It showcases my education, skills, projects, internships, and contact details in
 ---
 
 ## 📂 Project Structure
-- `resume.html` → Main resume file (open in browser)
+- `index.html` → Main resume file (open in browser)
 - (Optional) `images/` → Profile or project-related images
 - (Optional) `docs/` → Certificates or supporting documents
 
@@ -34,7 +34,7 @@ It showcases my education, skills, projects, internships, and contact details in
 ---
 
 ## 🌐 Live Demo
-👉 [View My Resume](https://Marzook30.github.io/Resume-creating-only-in-Html/)
+👉 [View My Resume](https://Marzook30.github.io/Resume-creating-only-in-Html)
 
 
 ---
